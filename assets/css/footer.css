@@ -32,3 +32,12 @@ h1, img {
     display: inline-block; /* Hace que los elementos se muestren en línea */
     vertical-align: middle; /* Alinea verticalmente los elementos */
 }
+
+nav{
+    background-color: #F2EEE4;
+    width: 100%;
+    height: 10%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+  }
